@@ -1,4 +1,6 @@
 Welcome to my new school
 students
-teachers chair
+teachers 
+chair
 book
+class timetable
